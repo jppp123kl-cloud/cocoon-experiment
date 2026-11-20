@@ -1,6 +1,6 @@
 {
   "protocol_version": "1.0",
-  "protocol_source_path": "D:/信息茧房/破茧助手全量实验方案_v1.md",
+  "protocol_source_path": "破茧助手全量实验方案_v1.md",
   "protocol_source_sha256": "3d3ba6f0e21237cb288fe4a9558ab015a09b56f1a9538af81e5c9075637f6253",
   "experiment_id": "cocoon_core_v1",
   "mode": "research",
@@ -73,14 +73,14 @@
     "integration_verified": false
   },
   "assistant": {
-    "source_path": "D:/信息茧房/vendor/cocoon-breaker-original/cocoon-breaker-demo.zip",
+    "source_path": "vendor/cocoon-breaker-original/cocoon-breaker-demo.zip",
     "source_sha256": "cdd042dba34f8f1e9e01e9e0c7a43540825e7f0de477029952c4aa798f0ce6f8",
-    "entry_path": "D:/信息茧房/vendor/cocoon-breaker-original/source_cdd042dba34f/index.html",
-    "provenance_path": "D:/信息茧房/vendor/cocoon-breaker-original/provenance.json",
-    "prompt_bundle_path": "D:/信息茧房/configs/assistant_prompts_v1.json",
+    "entry_path": "vendor/cocoon-breaker-original/source_cdd042dba34f/index.html",
+    "provenance_path": "vendor/cocoon-breaker-original/provenance.json",
+    "prompt_bundle_path": "configs/assistant_prompts_v1.json",
     "prompt_bundle_sha256": "c16363a126daa1d36c83cfdb247003f9191420c64be80a0e0308d9c3edb7af26",
     "adapter_version": "frozen-evidence-json-v1",
-    "offline_check_directory": "D:/信息茧房/experiment/adapter_checks/adapter_20261108T063210_0b9b487a",
+    "offline_check_directory": "experiment/adapter_checks/adapter_20261108T063210_0b9b487a",
     "adapter_verified": false
   },
   "models": {
